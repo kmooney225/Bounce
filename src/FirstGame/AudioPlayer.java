@@ -18,7 +18,7 @@ public class AudioPlayer {
 			soundMap.put("menu_sound" , new Sound("res/Click.wav"));
 			
 			
-			musicMap.put("music" , new Music("res/Miracle.wav"));
+			musicMap.put("music" , new Music("res/Miracle.mp3"));
 		} catch (SlickException e) {
 			e.printStackTrace();
 		}
