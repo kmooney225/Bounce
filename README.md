@@ -14,6 +14,14 @@ things like health and upgrades.
 You will how to have java installed on your machine to run this application. You can
 use eclipse or netbeans to run application.
 
+## How to Play
+- Use arrow keys to move player and dodge enemies
+- Face different and unique enemies in higher levels
+- Reach different levels and get the highest score!
+
+## Known Bugs
+- sometimes when playing the "normal mode", game crashes. Still figuring out why
+
 ## Build With
 Eclipse - a java ide
 
