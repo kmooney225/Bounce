@@ -13,8 +13,8 @@ Reaper to create the music.
 
 ## Installing
 
-You will how to have java installed on your machine to run this application. You can
-use eclipse or netbeans to run application.
+You will have to have java installed on your machine to run this application. You can
+use eclipse or netbeans to run "Main.java".
 
 ## How to Play
 - Use arrow keys to move player and dodge enemies
