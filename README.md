@@ -7,7 +7,8 @@
 
 This is the first game I've made in Java! It's a game where you dodge enemies blocks. 
 I implemented a point system to calculate your high score and a shop system to buy
-things like health and upgrades. I also used a DAW called Reaper to create the music.
+things like health and upgrades. I also used a Digital Audio Workstation (DAW) called 
+Reaper to create the music.
 
 
 ## Installing
